@@ -1,0 +1,37 @@
+body
+         {
+            margin: 5% 10%;
+            font-family:Arial, sans-serif;
+             font-size: 100%;
+            background-color: beige;
+         }
+         
+         header h2
+         {
+            margin-left: 0;
+            border: 2px black solid;
+             padding: 3%;
+             color: Purple;
+             background-color: aqua;
+             
+         }
+         
+         img 
+         {
+            text-align: center;
+             width: 85%;
+         }
+         
+          .blue {
+             color: red;
+             background-color: aqua;
+         }
+
+emphasis{
+    font-weight: bold;
+}
+
+
+cite{
+    font-size: small;
+}
